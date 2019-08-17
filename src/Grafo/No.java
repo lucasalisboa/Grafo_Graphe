@@ -5,6 +5,7 @@ import java.util.List;
 
 public class No {
     public List<Incidencia> incidencias;
+    public Color estado;
 
     public No() {
         incidencias = new ArrayList<>();
